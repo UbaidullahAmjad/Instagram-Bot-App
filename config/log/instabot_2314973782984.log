@@ -1,0 +1,402 @@
+2020-07-17 10:06:16,447 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:06:16,496 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:06:16,558 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:06:16,655 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:06:16,663 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=59cd5521-0bf1-48f0-984c-45ee8a85f9cb
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:06:16,719 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:06:25,665 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:06:26,363 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:06:27,305 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-07-17 10:06:27,872 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-07-17 10:06:29,329 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2020-07-17 10:06:30,052 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-07-17 10:06:31,015 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2020-07-17 10:06:31,558 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2020-07-17 10:06:33,435 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2020-07-17 10:06:33,448 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:06:33,494 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:06:40,087 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-07-17 10:06:40,139 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'C:\xamp\htdocs\chat_bot\Table\images\postsimages\arsalan\5.jpg' is not uploaded.
+2020-07-17 10:10:00,861 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:10:00,910 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:10:12,016 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:10:12,077 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:10:12,096 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:10:12,098 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:10:12,140 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=a68397b5-846d-4049-abaa-813ef4b53b35
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:10:12,234 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:10:13,656 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:10:14,462 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:10:14,474 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:10:14,529 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:21:31,934 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:21:31,989 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:21:59,119 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:21:59,186 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:22:01,217 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:22:01,264 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:22:01,318 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:22:01,322 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:22:01,324 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=a68397b5-846d-4049-abaa-813ef4b53b35
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:22:01,373 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:22:02,784 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:22:03,426 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:22:03,436 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:22:03,483 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:22:30,255 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-07-17 10:22:30,812 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-07-17 10:22:30,820 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'img-01.png' is uploaded.
+2020-07-17 10:23:56,942 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:23:56,997 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:23:57,026 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:23:57,028 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:23:57,030 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=a68397b5-846d-4049-abaa-813ef4b53b35
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:23:57,088 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:23:58,420 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:23:59,046 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:23:59,059 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:23:59,116 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:24:34,706 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:24:34,768 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:24:43,566 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:24:43,630 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:24:43,651 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:24:43,653 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:24:43,664 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=a68397b5-846d-4049-abaa-813ef4b53b35
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:24:43,786 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:24:45,205 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:24:45,874 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:24:45,890 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:24:45,938 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:24:53,357 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-07-17 10:24:53,423 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'C:\xamp\htdocs\chat_bot\Table\images\postsimages\5.jpg' is not uploaded.
+2020-07-17 10:26:37,281 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:26:37,346 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:26:44,154 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:26:44,218 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:26:44,247 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:26:44,250 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:26:44,258 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=a68397b5-846d-4049-abaa-813ef4b53b35
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:26:44,332 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:26:45,692 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:26:46,369 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:26:46,382 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:26:46,446 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:27:11,323 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:27:11,384 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:27:11,401 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:27:11,403 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:27:11,405 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=a68397b5-846d-4049-abaa-813ef4b53b35
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:27:11,478 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:27:12,838 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:27:13,482 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:27:13,496 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:27:13,552 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:27:22,626 - instabot version: 0.117.0 (api_photo) - ERROR - Photo Upload failed with the following response: <Response [400]>
+2020-07-17 10:27:22,688 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'C:\xamp\htdocs\chat_bot\Table\images\postsimages\LoginBG.png' is not uploaded.
+2020-07-17 10:31:37,712 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:31:37,784 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:31:37,814 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:31:37,817 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:31:37,819 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=a68397b5-846d-4049-abaa-813ef4b53b35
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:31:37,890 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:31:39,415 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:31:40,038 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:31:40,059 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:31:40,126 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:31:49,799 - instabot version: 0.117.0 (api_photo) - ERROR - Photo Upload failed with the following response: <Response [400]>
+2020-07-17 10:31:49,855 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'C:\xamp\htdocs\chat_bot\Table\images\postsimages\LoginBG.png' is not uploaded.
+2020-07-17 10:32:38,217 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:32:38,276 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:32:45,827 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:32:45,904 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:32:45,925 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:32:45,928 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:32:45,931 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=a68397b5-846d-4049-abaa-813ef4b53b35
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:32:45,996 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:32:47,657 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:32:48,346 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:32:48,357 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:32:48,425 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:32:54,540 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-07-17 10:32:54,613 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'C://xamp//htdocs//chat_bot//Table//images/postsimages/arsalan/5.jpg' is not uploaded.
+2020-07-17 10:34:38,274 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:34:38,350 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:35:02,299 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:35:02,373 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:35:10,143 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:35:10,223 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:35:10,306 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:35:10,309 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:35:10,385 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=a68397b5-846d-4049-abaa-813ef4b53b35
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:35:10,489 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:35:11,951 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:35:12,645 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:35:12,662 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:35:12,721 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:35:20,163 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-07-17 10:35:20,235 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'C:\xamp\htdocs\chat_bot\Table\images/postsimages/arsalan/5.jpg' is not uploaded.
+2020-07-17 10:38:22,492 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:38:22,576 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:38:22,594 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:38:22,597 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:38:22,599 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=a68397b5-846d-4049-abaa-813ef4b53b35
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:38:22,701 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:38:24,142 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:38:24,890 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:38:25,753 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-07-17 10:38:26,312 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-07-17 10:38:26,985 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2020-07-17 10:38:27,572 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-07-17 10:38:28,507 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2020-07-17 10:38:29,052 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2020-07-17 10:38:29,801 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2020-07-17 10:38:29,826 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:38:29,895 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:38:36,714 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-07-17 10:38:36,786 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'C:\xamp\htdocs\chat_bot\Table\images/postsimages/arsalan/5.jpg' is not uploaded.
+2020-07-17 10:39:31,526 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:39:31,595 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:39:31,622 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:39:31,625 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:39:31,628 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=cc8e9ed5-0e24-431e-8e66-6f14057e04da
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:39:31,694 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:39:33,128 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:39:33,770 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:39:33,808 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:39:33,893 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:39:40,786 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-07-17 10:39:40,860 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'C:\xamp\htdocs\chat_bot\Table\images/postsimages/arsalan/5.jpg' is not uploaded.
+2020-07-17 10:49:25,116 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:49:25,205 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:49:42,449 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:49:42,541 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:49:42,556 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:49:42,561 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:49:42,563 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=cc8e9ed5-0e24-431e-8e66-6f14057e04da
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:49:42,632 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:49:44,165 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:49:44,957 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:49:44,972 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:49:45,063 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:50:18,849 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:50:18,927 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:50:27,603 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:50:27,679 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:50:27,703 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:50:27,706 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:50:27,709 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=cc8e9ed5-0e24-431e-8e66-6f14057e04da
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:50:27,780 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:50:29,895 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:50:30,598 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:50:30,616 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:50:30,694 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:50:36,971 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-07-17 10:50:37,069 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'arsalan/5.jpg' is not uploaded.
+2020-07-17 10:51:26,703 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:51:26,782 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:51:26,802 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:51:26,805 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:51:26,807 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=cc8e9ed5-0e24-431e-8e66-6f14057e04da
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:51:26,882 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:51:28,474 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:51:29,221 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:51:29,233 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:51:29,328 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:51:37,264 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2020-07-17 10:51:37,349 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '5.jpg' is not uploaded.
+2020-07-17 10:52:10,461 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:52:10,543 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:52:10,564 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:52:10,567 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:52:10,569 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=cc8e9ed5-0e24-431e-8e66-6f14057e04da
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:52:10,641 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:52:12,135 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:52:13,544 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:52:13,558 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:52:13,635 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:52:22,201 - instabot version: 0.117.0 (api_photo) - ERROR - Photo Upload failed with the following response: <Response [400]>
+2020-07-17 10:52:22,290 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'LoginBG.png' is not uploaded.
+2020-07-17 10:53:23,278 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:53:23,366 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:54:28,784 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:54:28,860 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:54:28,894 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:54:28,900 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:54:28,904 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=cc8e9ed5-0e24-431e-8e66-6f14057e04da
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:54:28,977 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:54:30,384 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:54:31,070 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:54:31,087 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:54:31,165 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:54:40,216 - instabot version: 0.117.0 (api_photo) - ERROR - Photo Upload failed with the following response: <Response [400]>
+2020-07-17 10:54:40,291 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'LoginBG.png' is not uploaded.
+2020-07-17 10:57:59,492 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:57:59,588 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:57:59,615 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:57:59,623 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:57:59,629 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=cc8e9ed5-0e24-431e-8e66-6f14057e04da
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:57:59,778 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:58:02,465 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:58:03,187 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:58:03,213 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:58:03,301 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:58:10,870 - instabot version: 0.117.0 (api_photo) - ERROR - Photo Upload failed with the following response: <Response [400]>
+2020-07-17 10:58:10,964 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '6.png' is not uploaded.
+2020-07-17 10:59:43,410 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 10:59:43,504 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 10:59:43,527 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 10:59:43,533 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 10:59:43,537 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=cc8e9ed5-0e24-431e-8e66-6f14057e04da
+- device_id=android-f0522cd16f3458a1
+2020-07-17 10:59:43,652 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 10:59:45,108 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 10:59:45,806 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 10:59:45,840 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 10:59:45,988 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 10:59:54,234 - instabot version: 0.117.0 (api_photo) - ERROR - Photo Upload failed with the following response: <Response [400]>
+2020-07-17 10:59:54,328 - instabot version: 0.117.0 (bot_photo) - INFO - Photo '6.png' is not uploaded.
+2020-07-17 11:02:19,799 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 11:02:19,920 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 11:02:19,946 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 11:02:19,953 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 11:02:19,959 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=cc8e9ed5-0e24-431e-8e66-6f14057e04da
+- device_id=android-f0522cd16f3458a1
+2020-07-17 11:02:20,149 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 11:02:21,651 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 11:02:22,361 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 11:02:22,394 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 11:02:22,529 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 11:02:54,772 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 11:02:54,896 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 11:02:54,924 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 11:02:54,927 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 11:02:54,931 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=cc8e9ed5-0e24-431e-8e66-6f14057e04da
+- device_id=android-f0522cd16f3458a1
+2020-07-17 11:02:55,054 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 11:02:56,420 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 11:02:57,068 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 11:02:57,088 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 11:02:57,179 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 11:03:04,847 - instabot version: 0.117.0 (api_photo) - ERROR - Photo Upload failed with the following response: <Response [400]>
+2020-07-17 11:03:04,952 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'C:\xamp\htdocs\chat_bot\Table\images\postsimages\6.png' is not uploaded.
+2020-07-17 11:05:10,710 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 11:05:10,799 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 11:05:10,826 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 11:05:10,832 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 11:05:10,837 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=cc8e9ed5-0e24-431e-8e66-6f14057e04da
+- device_id=android-f0522cd16f3458a1
+2020-07-17 11:05:10,924 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 11:05:12,422 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 11:05:13,103 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 11:05:13,127 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 11:05:13,220 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 11:05:39,560 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2020-07-17 11:05:40,174 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2020-07-17 11:05:40,182 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'img-01.png' is uploaded.

@@ -1,0 +1,241 @@
+2020-07-17 15:12:38,375 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 15:12:38,380 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 15:12:38,381 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 15:12:38,382 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 15:12:38,382 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=2ece45d5-a97f-46ae-ae1d-ab75a991484f
+- device_id=android-f0522cd16f3458a1
+2020-07-17 15:12:38,384 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 15:12:40,428 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 15:12:41,004 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [502]>
+2020-07-17 15:12:41,004 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'<!DOCTYPE html>\n<html lang="en" id="facebook">\n  <head>\n    <title>Facebook | Error</title>\n    <meta charset="utf-8">\n    <meta http-equiv="cache-control" content="no-cache">\n    <meta http-equiv="cache-control" content="no-store">\n    <meta http-equiv="cache-control" content="max-age=0">\n    <meta http-equiv="expires" content="-1">\n    <meta http-equiv="pragma" content="no-cache">\n    <meta name="robots" content="noindex,nofollow">\n    <style>\n      html, body {\n        color: #141823;\n        background-color: #e9eaed;\n        font-family: Helvetica, Lucida Grande, Arial,\n                     Tahoma, Verdana, sans-serif;\n        margin: 0;\n        padding: 0;\n        text-align: center;\n      }\n\n      #header {\n        height: 30px;\n        padding-bottom: 10px;\n        padding-top: 10px;\n        text-align: center;\n      }\n\n      #icon {\n        width: 30px;\n      }\n\n      h1 {\n        font-size: 18px;\n      }\n\n      p {\n        font-size: 13px;\n      }\n\n      #footer {\n        border-top: 1px solid #ddd;\n        color: #9197a3;\n        font-size: 12px;\n        padding: 5px 8px 6px 0;\n      }\n    </style>\n  </head>\n  <body>\n    <div id="header">\n      <a href="//www.facebook.com/">\n        <img id="icon" src="//static.facebook.com/images/logos/facebook_2x.png" />\n      </a>\n    </div>\n    <div id="core">\n      <h1 id="sorry">Sorry, something went wrong.</h1>\n      <p id="promise">\n        We\'re working on it and we\'ll get it fixed as soon as we can.\n      </p>\n      <p id="back-link">\n        <a id="back" href="//www.facebook.com/">Go Back</a>\n      </p>\n      <div id="footer">\n        Facebook\n        <span id="copyright">\n          &copy; 2020\n        </span>\n        <span id="help-link">\n          &#183;\n          <a id="help" href="//www.facebook.com/help/">Help Center</a>\n        </span>\n      </div>\n    </div>\n    <script>\n      document.getElementById(\'back\').onclick = function() {\n        if (history.length > 1) {\n          history.back();\n          return false;\n        }\n      };\n\n      // Adjust the display based on the window size\n      if (window.innerHeight < 80 || window.innerWidth < 80) {\n        // Blank if window is too small\n        document.body.style.display = \'none\';\n      };\n      if (window.innerWidth < 200 || window.innerHeight < 150) {\n        document.getElementById(\'back-link\').style.display = \'none\';\n        document.getElementById(\'help-link\').style.display = \'none\';\n      };\n      if (window.innerWidth < 200) {\n        document.getElementById(\'sorry\').style.fontSize = \'16px\';\n      };\n      if (window.innerWidth < 150) {\n        document.getElementById(\'promise\').style.display = \'none\';\n      };\n      if (window.innerHeight < 150) {\n        document.getElementById(\'sorry\').style.margin = \'4px 0 0 0\';\n        document.getElementById(\'sorry\').style.fontSize = \'14px\';\n        document.getElementById(\'promise\').style.display = \'none\';\n      };\n    </script>\n  </body>\n</html>\n'
+2020-07-17 15:12:41,004 - instabot version: 0.117.0 (api) - ERROR - Request returns 502 error!
+2020-07-17 15:12:41,007 - instabot version: 0.117.0 (api) - ERROR - Error checking for `feedback_required`, response text is not JSON
+2020-07-17 15:12:41,009 - instabot version: 0.117.0 (api) - INFO - Full Response: <Response [502]>
+2020-07-17 15:12:41,012 - instabot version: 0.117.0 (api) - INFO - Response Text: <!DOCTYPE html>
+<html lang="en" id="facebook">
+  <head>
+    <title>Facebook | Error</title>
+    <meta charset="utf-8">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta http-equiv="cache-control" content="no-store">
+    <meta http-equiv="cache-control" content="max-age=0">
+    <meta http-equiv="expires" content="-1">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta name="robots" content="noindex,nofollow">
+    <style>
+      html, body {
+        color: #141823;
+        background-color: #e9eaed;
+        font-family: Helvetica, Lucida Grande, Arial,
+                     Tahoma, Verdana, sans-serif;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+      }
+
+      #header {
+        height: 30px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        text-align: center;
+      }
+
+      #icon {
+        width: 30px;
+      }
+
+      h1 {
+        font-size: 18px;
+      }
+
+      p {
+        font-size: 13px;
+      }
+
+      #footer {
+        border-top: 1px solid #ddd;
+        color: #9197a3;
+        font-size: 12px;
+        padding: 5px 8px 6px 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="header">
+      <a href="//www.facebook.com/">
+        <img id="icon" src="//static.facebook.com/images/logos/facebook_2x.png" />
+      </a>
+    </div>
+    <div id="core">
+      <h1 id="sorry">Sorry, something went wrong.</h1>
+      <p id="promise">
+        We're working on it and we'll get it fixed as soon as we can.
+      </p>
+      <p id="back-link">
+        <a id="back" href="//www.facebook.com/">Go Back</a>
+      </p>
+      <div id="footer">
+        Facebook
+        <span id="copyright">
+          &copy; 2020
+        </span>
+        <span id="help-link">
+          &#183;
+          <a id="help" href="//www.facebook.com/help/">Help Center</a>
+        </span>
+      </div>
+    </div>
+    <script>
+      document.getElementById('back').onclick = function() {
+        if (history.length > 1) {
+          history.back();
+          return false;
+        }
+      };
+
+      // Adjust the display based on the window size
+      if (window.innerHeight < 80 || window.innerWidth < 80) {
+        // Blank if window is too small
+        document.body.style.display = 'none';
+      };
+      if (window.innerWidth < 200 || window.innerHeight < 150) {
+        document.getElementById('back-link').style.display = 'none';
+        document.getElementById('help-link').style.display = 'none';
+      };
+      if (window.innerWidth < 200) {
+        document.getElementById('sorry').style.fontSize = '16px';
+      };
+      if (window.innerWidth < 150) {
+        document.getElementById('promise').style.display = 'none';
+      };
+      if (window.innerHeight < 150) {
+        document.getElementById('sorry').style.margin = '4px 0 0 0';
+        document.getElementById('sorry').style.fontSize = '14px';
+        document.getElementById('promise').style.display = 'none';
+      };
+    </script>
+  </body>
+</html>
+
+2020-07-17 15:12:41,015 - instabot version: 0.117.0 (api) - ERROR - Error unknown send request
+2020-07-17 15:12:41,034 - instabot version: 0.117.0 (api) - INFO - Login flow failed, the cookie is broken. Relogin again.
+2020-07-17 15:12:41,037 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 15:12:41,038 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 15:12:41,038 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=2ece45d5-a97f-46ae-ae1d-ab75a991484f
+- device_id=android-f0522cd16f3458a1
+2020-07-17 15:12:41,040 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-07-17 15:12:41,598 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-07-17 15:12:42,159 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-07-17 15:12:43,188 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-07-17 15:12:43,808 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-07-17 15:12:46,643 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2020-07-17 15:12:46,643 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 15:12:46,645 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-07-17 15:12:47,304 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-07-17 15:12:47,907 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-07-17 15:12:49,754 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-f0522cd16f3458a1&token_hash=&custom_device_id=android-f0522cd16f3458a1&fetch_reason=token_expired returned response: <Response [200]>
+2020-07-17 15:12:50,364 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2020-07-17 15:12:50,979 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-07-17 15:12:51,900 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+2020-07-17 15:12:52,516 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2020-07-17 15:12:53,225 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 15:12:54,665 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 15:12:55,278 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2020-07-17 15:12:56,326 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2020-07-17 15:12:57,018 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2020-07-17 15:12:58,148 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2020-07-17 15:12:58,759 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2020-07-17 15:12:59,375 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+2020-07-17 15:12:59,988 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+2020-07-17 15:13:00,602 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: locations/request_country/ returned response: <Response [200]>
+2020-07-17 15:13:01,355 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: qp/get_cooldowns/?signed_body=signed_body=4b9c516a5410a3bc128e09c6104a7f042146b9c2023870560c63a43a7f66781c.4&ig_sig_key_version=4&ig_sig_key_version=4 returned response: <Response [200]>
+2020-07-17 15:13:01,918 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arlink_download_info/?version_override=2.2.1 returned response: <Response [200]>
+2020-07-17 15:13:02,574 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/37139012092/info/ returned response: <Response [200]>
+2020-07-17 15:13:03,264 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-07-17 15:13:04,087 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20 returned response: <Response [200]>
+2020-07-17 15:13:04,800 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&persistentBadging=true&limit=0 returned response: <Response [200]>
+2020-07-17 15:13:05,747 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: discover/topical_explore/?is_prefetch=true&omit_cover_media=true&use_sectional_payload=true&timezone_offset=0&session_id=2ece45d5-a97f-46ae-ae1d-ab75a991484f&include_fixed_destinations=true returned response: <Response [200]>
+2020-07-17 15:13:06,335 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: notifications/badge/ returned response: <Response [200]>
+2020-07-17 15:13:07,244 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qp/batch_fetch/ returned response: <Response [200]>
+2020-07-17 15:13:07,252 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 15:13:08,077 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/abdul_jabbar_a_j/usernameinfo/ returned response: <Response [200]>
+2020-07-17 15:13:08,552 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 2905912660.
+2020-07-17 15:13:08,554 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "2905912660", "radio_type": "wifi-none", "device_id": "android-f0522cd16f3458a1", "_uuid": "1bbfd142-163d-495d-99a6-dac22d91ac34", "_uid": "37139012092", "_csrftoken": "ZrXq36zV1A5bySv39Sd2BDKGNNWxPtEa"}
+2020-07-17 15:13:09,718 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/2905912660/ returned response: <Response [200]>
+2020-07-17 15:13:09,719 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 2905912660.
+2020-07-17 15:13:10,440 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/37139012092/info/ returned response: <Response [200]>
+2020-07-17 15:13:11,062 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/37139012092/following/?max_id=&ig_sig_key_version=4&rank_token=37139012092_1bbfd142-163d-495d-99a6-dac22d91ac34 returned response: <Response [200]>
+2020-07-17 15:13:11,763 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/logout/ returned response: <Response [200]>
+2020-07-17 15:13:11,764 - instabot version: 0.117.0 (bot) - INFO - Bot stopped. Worked: 0:04:43.969119
+2020-07-17 15:13:11,766 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 15:13:11,895 - instabot version: 0.117.0 (bot) - INFO - Total follows: 3/63
+2020-07-17 15:13:11,897 - instabot version: 0.117.0 (bot) - INFO - Total requests: 17
+2020-07-17 15:13:21,901 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 15:13:21,902 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 15:13:21,902 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=2ece45d5-a97f-46ae-ae1d-ab75a991484f
+- device_id=android-f0522cd16f3458a1
+2020-07-17 15:13:21,906 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 15:13:23,092 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [403]>
+2020-07-17 15:13:23,092 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "user_has_logged_out", "logout_reason": 9, "status": "fail"}'
+2020-07-17 15:13:23,092 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2020-07-17 15:13:24,537 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [403]>
+2020-07-17 15:13:24,537 - instabot version: 0.117.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "user_has_logged_out", "logout_reason": 9, "status": "fail"}'
+2020-07-17 15:13:24,537 - instabot version: 0.117.0 (api) - ERROR - Request returns 403 error!
+2020-07-17 15:13:24,555 - instabot version: 0.117.0 (api) - INFO - Login flow failed, the cookie is broken. Relogin again.
+2020-07-17 15:13:24,559 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 15:13:24,560 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 15:13:24,560 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=2ece45d5-a97f-46ae-ae1d-ab75a991484f
+- device_id=android-f0522cd16f3458a1
+2020-07-17 15:13:24,563 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2020-07-17 15:13:26,007 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2020-07-17 15:13:26,715 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-07-17 15:13:27,440 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-07-17 15:13:28,147 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/contact_point_prefill/ returned response: <Response [200]>
+2020-07-17 15:13:31,326 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/login/ returned response: <Response [200]>
+2020-07-17 15:13:31,326 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 15:13:31,328 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: True
+2020-07-17 15:13:32,040 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-07-17 15:13:32,654 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
+2020-07-17 15:13:33,269 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: zr/token/result/?device_id=android-f0522cd16f3458a1&token_hash=&custom_device_id=android-f0522cd16f3458a1&fetch_reason=token_expired returned response: <Response [200]>
+2020-07-17 15:13:34,192 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: multiple_accounts/get_account_family/ returned response: <Response [200]>
+2020-07-17 15:13:35,218 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2020-07-17 15:13:36,185 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: igtv/browse_feed/?prefetch=1 returned response: <Response [200]>
+2020-07-17 15:13:37,569 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: creatives/ar_class/ returned response: <Response [200]>
+2020-07-17 15:13:38,286 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 15:13:39,867 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 15:13:40,945 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: media/blocked/ returned response: <Response [200]>
+2020-07-17 15:13:41,977 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/ returned response: <Response [200]>
+2020-07-17 15:13:42,587 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: loom/fetch_config/ returned response: <Response [200]>
+2020-07-17 15:13:43,414 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: scores/bootstrap/users/?surfaces=["autocomplete_user_list","coefficient_besties_list_ranking","coefficient_rank_recipient_user_suggestion","coefficient_ios_section_test_bootstrap_ranking","coefficient_direct_recipients_ranking_variant_2"] returned response: <Response [200]>
+2020-07-17 15:13:44,020 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/eligibility/get_monetization_products_eligibility_data/?product_types=branded_content returned response: <Response [200]>
+2020-07-17 15:13:44,634 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: business/branded_content/should_require_professional_account/ returned response: <Response [200]>
+2020-07-17 15:13:45,250 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: linked_accounts/get_linkage_status/ returned response: <Response [200]>
+2020-07-17 15:13:47,707 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: locations/request_country/ returned response: <Response [200]>
+2020-07-17 15:13:48,421 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: qp/get_cooldowns/?signed_body=signed_body=4b9c516a5410a3bc128e09c6104a7f042146b9c2023870560c63a43a7f66781c.4&ig_sig_key_version=4&ig_sig_key_version=4 returned response: <Response [200]>
+2020-07-17 15:13:49,044 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arlink_download_info/?version_override=2.2.1 returned response: <Response [200]>
+2020-07-17 15:13:49,858 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/37139012092/info/ returned response: <Response [200]>
+2020-07-17 15:13:50,673 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-07-17 15:13:51,394 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&thread_message_limit=10&persistentBadging=true&limit=20 returned response: <Response [200]>
+2020-07-17 15:13:52,005 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/inbox/?visual_message_return_type=unseen&persistentBadging=true&limit=0 returned response: <Response [200]>
+2020-07-17 15:13:52,952 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: discover/topical_explore/?is_prefetch=true&omit_cover_media=true&use_sectional_payload=true&timezone_offset=0&session_id=2ece45d5-a97f-46ae-ae1d-ab75a991484f&include_fixed_destinations=true returned response: <Response [200]>
+2020-07-17 15:13:53,514 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: notifications/badge/ returned response: <Response [200]>
+2020-07-17 15:13:54,462 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qp/batch_fetch/ returned response: <Response [200]>
+2020-07-17 15:13:54,480 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 15:13:55,183 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arsalan.ak47/usernameinfo/ returned response: <Response [200]>
+2020-07-17 15:13:55,382 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 2033130243.

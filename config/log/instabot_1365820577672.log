@@ -1,0 +1,60 @@
+2020-07-17 13:02:45,235 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 13:02:45,240 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 13:02:45,242 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 13:02:45,243 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 13:02:45,243 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=5548ae3e-647e-4e97-b41a-0807ee1c37b7
+- device_id=android-f0522cd16f3458a1
+2020-07-17 13:02:45,245 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 13:02:46,846 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 13:02:47,626 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 13:02:48,231 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-07-17 13:02:48,840 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-07-17 13:02:49,785 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2020-07-17 13:02:50,421 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-07-17 13:02:52,164 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2020-07-17 13:02:52,726 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2020-07-17 13:02:53,769 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2020-07-17 13:02:53,893 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 13:02:53,893 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 13:02:54,708 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arsalan.ak47/usernameinfo/ returned response: <Response [200]>
+2020-07-17 13:02:54,905 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 2033130243.
+2020-07-17 13:02:54,907 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "2033130243", "radio_type": "wifi-none", "device_id": "android-f0522cd16f3458a1", "_uuid": "1bbfd142-163d-495d-99a6-dac22d91ac34", "_uid": "37139012092", "_csrftoken": "vMG4QtCAG8RP95bw1lX9HyxUQW1XD5W2"}
+2020-07-17 13:02:55,710 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/2033130243/ returned response: <Response [200]>
+2020-07-17 13:02:55,710 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 2033130243.
+2020-07-17 13:02:56,432 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/37139012092/info/ returned response: <Response [200]>
+2020-07-17 13:02:57,147 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/37139012092/following/?max_id=&ig_sig_key_version=4&rank_token=37139012092_1bbfd142-163d-495d-99a6-dac22d91ac34 returned response: <Response [200]>
+2020-07-17 14:48:44,688 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-07-17 14:48:44,692 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\beast\AppData\Roaming\Python\Python37\site-packages\instabot\bot\bot.py
+2020-07-17 14:48:44,703 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-07-17 14:48:44,704 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-07-17 14:48:44,704 - instabot version: 0.117.0 (api_login) - INFO - Recovery from D:\python\instabot/config/usmanaslam406_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=7f690b8d-3868-49f6-ad8f-1fbe4192dc25
+- uuid=1bbfd142-163d-495d-99a6-dac22d91ac34
+- client_session_id=b1008486-474f-4c9c-92af-f8b762f380e7
+- device_id=android-f0522cd16f3458a1
+2020-07-17 14:48:44,709 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-07-17 14:48:46,957 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-07-17 14:48:47,656 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-07-17 14:48:48,198 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-07-17 14:48:48,754 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2020-07-17 14:48:49,472 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2020-07-17 14:48:50,048 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2020-07-17 14:48:51,125 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2020-07-17 14:48:51,649 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2020-07-17 14:48:52,328 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2020-07-17 14:48:52,351 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'usmanaslam406'!
+2020-07-17 14:48:52,354 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\python\instabot/config/usmanaslam406.checkpoint
+2020-07-17 14:48:52,957 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/arsalan.ak47/usernameinfo/ returned response: <Response [200]>
+2020-07-17 14:48:53,743 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 2033130243.
+2020-07-17 14:48:53,745 - instabot version: 0.117.0 (api) - DEBUG - post data: {"user_id": "2033130243", "radio_type": "wifi-none", "device_id": "android-f0522cd16f3458a1", "_uuid": "1bbfd142-163d-495d-99a6-dac22d91ac34", "_uid": "37139012092", "_csrftoken": "vMG4QtCAG8RP95bw1lX9HyxUQW1XD5W2"}
+2020-07-17 14:48:54,543 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: friendships/create/2033130243/ returned response: <Response [200]>
+2020-07-17 14:48:54,543 - instabot version: 0.117.0 (bot_follow) - INFO - Followed `user_id` 2033130243.
+2020-07-17 14:48:55,233 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/37139012092/info/ returned response: <Response [200]>
+2020-07-17 14:48:55,828 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: friendships/37139012092/following/?max_id=&ig_sig_key_version=4&rank_token=37139012092_1bbfd142-163d-495d-99a6-dac22d91ac34 returned response: <Response [200]>
+2020-07-17 14:48:56,440 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/abdul_jabbar_a_j/usernameinfo/ returned response: <Response [200]>
+2020-07-17 14:48:56,883 - instabot version: 0.117.0 (bot_follow) - INFO - Going to follow `user_id` 2905912660.
